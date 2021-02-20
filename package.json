@@ -71,7 +71,7 @@
     "i18next": "^19.4.4",
     "idb": "^5.0.2",
     "ismobilejs": "^1.1.1",
-    "json-logic-js": "^1.2.2",
+    "json-logic-js": "^2.0.0",
     "jstimezonedetect": "^1.0.7",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
